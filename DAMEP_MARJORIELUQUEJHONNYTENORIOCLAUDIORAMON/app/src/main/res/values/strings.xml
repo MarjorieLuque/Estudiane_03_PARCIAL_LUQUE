@@ -1,4 +1,26 @@
 <resources>
     <string name="app_name">DAMEP_MARJORIELUQUEJHONNYTENORIOCLAUDIORAMON</string>
     <string name="TV_Censo">Censo DAM 2024</string>
+    <string name="Apell_Nom">Apellidos y Nombre</string>
+    <string name="txt_nombre" />
+    <string name="lbl_correo">Correo Electrónico</string>
+    <string name="lbl_Clave">Clave</string>
+    <string name="lbl_telefono">Telefono de contacto</string>
+    <string name="lbl_nac">Fecha de Nacimiento</string>
+    <string name="lbl_hnac">Hora de Nacimiento</string>
+    <string name="lbl_reside">Zona de residencia</string>
+    <string name="rbtn_Urbano">Urbano</string>
+    <string name="rbtn_Rural">Rural</string>
+    <string name="lbl_per_viven">¿Cuántas personas viven en la vivienda?</string>
+    <string name="lbl_sueldo">Ingreso (Sueldo) Promedio de la Familia</string>
+    <string name="rbtn_mascotas">Mascotas que viven en casa</string>
+    <string name="cbx_gato">Gato</string>
+    <string name="cbx_Gato">Gato</string>
+    <string name="cbx_Perro">Perro</string>
+    <string name="cbx_Pollo">Pollo</string>
+    <string name="cbx_pato">Pato</string>
+    <string name="cbx_otros">Otros</string>
+    <string name="txt_gbo">¿Que opina sobre los bonos otorgados por el gobierno?</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="txt_multi" />
 </resources>
